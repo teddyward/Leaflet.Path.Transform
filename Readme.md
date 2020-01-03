@@ -1,5 +1,7 @@
 # Leaflet.Path.Transform [![npm version](https://badge.fury.io/js/leaflet-path-transform.svg)](https://badge.fury.io/js/leaflet-path-transform)
 
+**The only changes that I've made in this fork is to delete the examples, which referenced SVG files that didn't exist. This depends on [another fork of mine](https://github.com/teddyward/Leaflet.Path.Drag) that does the same thing.**
+
 Drag/rotate/resize handler for [leaflet](http://leafletjs.com) vector features.
 
 ![screenshot 2016-03-21 15 31 48](https://cloud.githubusercontent.com/assets/26884/13921863/4470b97c-ef7a-11e5-8ea2-46161fffaedd.png)
